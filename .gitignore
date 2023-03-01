@@ -8,9 +8,11 @@ local_settings.py
 .env
 myvenv/
 venv/
+Pipfile
+Pipfile.lock
 
 # Database
-db.sqlite3
+src/db.sqlite3
 
 # Static folder at project root
 /static/
